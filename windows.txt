@@ -1,0 +1,28 @@
+ctrl+shift+Esc 打开任务管理器  
+ctrl+w 关闭当前页
+win+E 打开我的电脑
+win+ + 图片放大
+win+ M  最小化所有窗口
+ctrl+Tab 切换页面
+ctrl+1 最开始页面
+ctrl+F5 刷新
+win+R 运行
+win+数字键1到9 打开固定到任务栏的应用
+win+home 除了使用的窗口 其他的都最小化
+F11最大化最小化切换
+ALT+向左键 查看上一个文件夹
+ALT+向上键 查看父文件夹
+Ctl+shift+N 新建文件夹  
+按住shift键再右键点击目录 在右键菜单可以找到在此处打开命令行窗口
+win+shift+<-   移动到左屏幕
+win+T 切换任务栏程序
+快速打开任务栏程序新窗口   shift点击
+Win+B 查看最小托盘
+ALT+Space+M 移动窗口
+ALT+Space+S 放大缩小窗口 （按方向键）
+
+运行输入：
+cmd 
+calc 打开计算器
+notepad 打开记事本
+mspaint 画图板  
