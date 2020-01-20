@@ -1,0 +1,159 @@
+一、变换工具 6个
+
+快捷键Q--Hand（手形）工具 可以平移整个Scene视图
+
+快捷键W--Translate（移动）工具 移动所选择的游戏对象
+
+快捷键E--Rotate（旋转）工具 按任意角度旋转游戏对象
+
+快捷键R--Scale（缩放）工具 缩放选中的游戏对象
+
+快捷键T--横切面工具 可以沿着横截面缩放，沿着横截面的中心点旋转
+
+快捷键Z--Center工具 改变游戏对象的轴心点
+
+快捷键X--Local工具 改变物体的坐标
+
+ 
+
+二、播放控件 3个
+
+Ctrl+P--播放按钮 播放/运行，对游戏场景进行预览
+
+ 
+
+Ctrl+Shift+P--暂停按钮 暂停/中断，停止预览
+
+Ctrl+Alt+P--逐帧播放按钮 单帧进行预览
+
+ 
+
+以上一、二为工具栏的快捷键
+
+ 
+
+三、File（文件）菜单快捷键 6个
+
+Ctrl+N--New Scene 新建场景
+
+Ctrl+O--Open Scene 打开场景
+
+Ctrl+S--Save Scene 保存场景
+
+Ctrl+Shift+S--Save Scene as 场景另存为
+
+Ctrl+Shift+B--Build Setings 发布设置
+
+Ctrl+B--Build & Run 发布并运行
+
+ 
+
+四、Edit（编辑）菜单 11个
+
+（在Mac机中，用command键替换Ctrl，以下出现的Ctrl均同）
+
+ 
+
+Ctrl+Z--Undo Selection Change 撤销上一步操作
+
+Ctrl+Y--Redo 反撤销（mac机为command+Shift+Z）
+
+Ctrl+X--Cut 剪切
+
+Ctrl+C--Copy 复制
+
+Ctrl+V--Paste 粘贴
+
+ 
+
+Ctrl+D--Duplicate 复制并粘贴
+
+Shift+Del--Delete 删除（mac机位command+Del）
+
+快捷键F--Frame Selected 居中并最大化当前选中的物体
+
+ 
+
+Ctrl+F--Find 搜索，按照名称查找物体
+
+Shift+F--Lock view to Selected 锁定搜索到的物体
+
+Ctrl+A--Select All 选择全部
+
+ 
+
+五、Assets菜单快捷键 1个
+
+Ctrl+R--Refresh 刷新场景
+
+ 
+
+六、GameObject菜单快捷键 5个
+
+Ctrl+Shift+N--Create Empty 创建一个空的游戏对象
+
+Alt+Shift+N--Create Empty Child 创建一个空的子物体
+
+Ctrl+Alt+F--Move to New 移动游戏对象到视图的中心点
+
+Ctrl+Shift+F--Align With View
+
+Alt+Shift+A--Toggle Active Stave
+
+ 
+
+七、Component菜单快捷键
+
+Ctrl+Shift+A--add 添加组件
+
+ 
+
+八、切换视图快捷键 12个
+
+ 
+
+Ctrl+Tab切换--next Windows 下个窗口
+
+ 
+
+Ctrl+Shift+Tab切换--Previous Windows 上个窗口
+
+Ctrl+1切换--Scene视图
+
+Ctrl+2切换--Game视图
+
+Ctrl+3切换--Inspector视图
+
+Ctrl+4切换--Hierarchy视图
+
+Ctrl+5切换--Project视图
+
+Ctrl+6切换--Animation视图
+
+Ctrl+7切换--Profiler视图
+
+Ctrl+9切换--Asset Store Unity资源商店
+
+Ctrl+0切换--Asset Server 资源服务器
+
+Ctrl+Shift+C切换--Console 控制台
+
+ 
+
+以上三~八为菜单栏快捷键
+
+ 
+
+九：操作Scene视图的快捷键
+
+Alt+鼠标左键--旋转视图
+
+Alt+鼠标右键--放大缩小视图
+
+ 
+
+Alt+鼠标中键--移动视图
+
+鼠标右键+w/s/a/d--向上/下/左/右 飞行浏览视图
+
+鼠标右键+w/s/a/d+Shift--向上/下/左/右 快速飞行浏览视图
